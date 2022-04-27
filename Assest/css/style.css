@@ -157,7 +157,7 @@ It separates the header and nav bar from the main content*/
 
 /*This changes the display when the screen size is 768px or smaller.*/
 @media screen and (max-width: 768px) {
-    /*This decreases the font size.*/
+ /*This decreases the font size.*/
     section {
         font-size: x-small;
     }
